@@ -1,0 +1,11 @@
+target.setusername(username);
+target.setpassword(password);
+target.setsex(sex);
+target.setphoneNum(phoneNum);
+target.setemail(email);
+target.setbirth(birth);
+target.setintroduction(introduction);
+target.setlocation(location);
+target.setavator(avator);
+target.setcreateTime(createTime);
+target.setupdateTime(updateTime);
